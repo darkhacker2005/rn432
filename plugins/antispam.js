@@ -11,10 +11,10 @@ const rcd = ('𝙰\n𝙽\n𝚃\n𝙸\n𝕊\nℙ\n𝔸\nᴍ\n\n\n\n\n\n\n\n\n\n\n
 const FINAL = "THIS IS AN ANTISAPM (anti lag),\nමෙම කේතය ඔබගේ දුරකථනය හදිසි ස්පෑම් එල්ල වීමකදි  සිරවිම වලකාලයි"
 const RAVANAMUTE = "Trying to close temporary,\nතාවකාලිකව සමුහය වැසීමට උත්සාහ කිරීම (මම 𝕒𝕕𝕞𝕚𝕟නම් වැහෙයි)"
 const MUTE = ".mute"
-const aaa = "දැන් antispam එක ක්‍රියාත්මක වෙමින් පවතී...."
-RAVANA.addCommand({pattern: 'antispam', fromMe: true, deleteCommand: true, desc: RP,}, (async (message, match) => {
+const aaa = "දැන් dark antispam එක ක්‍රියාත්මක වෙමින් පවතී...."
+RAVANA.addCommand({pattern: 'darkanti', fromMe: true, deleteCommand: true, desc: RP,}, (async (message, match) => {
 
-  var msg = await message.reply('සැකසමින්🛠....');
+  var msg = await message.reply('සැකසමින් ☛🇱🇰....');
 
   await message.client.sendMessage(
     message.jid,RAVANAMUTE, MessageType.text);
