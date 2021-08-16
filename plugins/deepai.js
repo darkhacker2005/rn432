@@ -967,13 +967,4 @@ else if (Config.WORKTYPE == 'public') {
             return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
 
     }));
-    Asena.addCommand({ pattern: 'ff50 ?(.*)', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
-
-        if (match[1] ===  '') return await message.sendMessage(ll);
-
-        var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/meme-gen?top=%20&bottom=${encodeURIComponent(match[1])}&img=https://telegra.ph/file/816aaa82629bfa202f3d4.jpg`, { responseType:  arraybuffer  })
-
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  '🚀Made by DARK KNIGHT'  })
-
-    }));
 }
