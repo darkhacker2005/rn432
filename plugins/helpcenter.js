@@ -1,17 +1,13 @@
-/* # Exclusively from RAVANA
-# Do not use this fore any commercial thing
-# Do not edit (Respect to the Devaoloper) 
-# All rights reserved RAVANA Wa.me/+94714898434
-# Credit : RAVANA
+/* #
 උස්සන එකාට හොදක් වෙන්න එපා
-*/
+
 
 const RAVANA  = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const HELP = "Bot help Center"
 
 
-    RAVANA.addCommand({pattern: 'rhelp', fromMe: true, deleteCommand: true, desc: HELP,}, (async (message, match) => {
+    RAVANA.addCommand({pattern: 'dhelp', fromMe: true, deleteCommand: true, desc: HELP,}, (async (message, match) => {
 
         await message.sendMessage("*🇱🇰HELLOW THIS IS RAVANA HELP CENTER🇱🇰* \n\n✨මොකක්ද ඔයාගෙ ප්‍රශ්නේ \n\n\n▶මොකක්ද මේ RAVANA BOT කියන්නේ(.1) \n\n▶සිංදු වීඩියෝ එන්නේ නෑ(.2)\n\n▶ලොගෝ වැඩ නෑ(.3)\n\n▶Alive එක වැඩ කරන්නේ නෑ(.4)\n\n▶Shutdown කරාම on කරන්නේ කොහොමද(.5) \n\n▶බොට් එක පාරම වැඩ නැතුව ගියොත් මොකද කරන්නේ(.6)\n\n▶කොහොමද බොට්ගේ කමාන්ඩ් ටික ගන්නේ(.7) \n\n▶බොට් ගේ කමාන්ඩ් අපිට වැඩ නැත්තේ ඇයි(.8) \n\n▶Update කරන්නද(.9)\n\n▶කොහොමද language වෙනස් කරන්නේ(.10)\n\n▶වෙනත්(.11) \n\n\n🥰RAVANA HELP CENTER  භාවිතා කිරීම ගැන ඔබට ස්තුතියි🇱🇰");
     
@@ -72,3 +68,4 @@ const HELP = "Bot help Center"
     
     }));
     
+*/
