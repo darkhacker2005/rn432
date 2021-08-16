@@ -1,15 +1,15 @@
 /*
-RAVANA
+DARK KNIGHT
 */
 
 function successfullMessage(msg) {
-    return "✅ *RAVANA :*  ```" + msg + "```"
+    return "✅ *DARK KNIGHT :*  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *RAVANA :*  ```" + msg + "```"
+    return "🛑 *DARK KNIGHT :*  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *RAVANA :*  ```" + msg + "```"
+    return "⏺️ *DARK KNIGHT :*  ```" + msg + "```"
 }
 
 
