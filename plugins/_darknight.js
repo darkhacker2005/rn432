@@ -211,7 +211,7 @@ else if (Config.WORKTYPE == 'public') {
 }));
 
 /*RAVANA*/
-RAVANA.addCommand({pattern: 'dark ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+RAVANA.addCommand({pattern: 'ddark ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         RAVANA.commands.map(
