@@ -11,7 +11,7 @@ const LOADING = "Downloading the Video..."
 const NOT_FOUNDFB = "Video Not Found"
 const CAPTION = "Caption"
 
-RAVANA.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (message, match) => {
+RAVANA.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: IG_DESC}, async (message, match) => {
 
     const userName = match[1]
 
@@ -32,11 +32,11 @@ RAVANA.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (m
         const msg = `${type}`
 
 	 if (msg === 'image') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, {
-          caption: "Made By RAVANA🇱🇰"
+          caption: "Made By DARK KNIGHT ➠ 🇱🇰"
         })}
 		 	 
 	if (msg === 'video') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By RAVANA🇱🇰"
+          caption: "Made By DARK KNIGHT ➠ 🇱🇰"
         })}
 	
         
@@ -71,7 +71,7 @@ RAVANA.addCommand({ pattern: 'fb ?(.*)', fromMe: false, desc: FBDESC }, async (m
         const msg = `*${CAPTION}*: ${judul}`
 
         await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By RAVANA🇱🇰"
+          caption: "Made By DARK KNIGHT ➠ 🇱🇰"
         })
       })
       .catch(
