@@ -10,7 +10,7 @@ const Config = require('../config');
 
 
 if (Config.WORKTYPE == 'private') {
-RAVANA.addCommand({pattern: 'gm', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+RAVANA.addCommand({pattern: 'gmt', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -31,7 +31,7 @@ RAVANA.addCommand({pattern: 'gm', fromMe: true, deleteCommand: true, desc: GM,},
     }));
 
 
-RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+RAVANA.addCommand({pattern: 'gnt', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
     
@@ -54,7 +54,7 @@ RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,},
     
 
     if (Config.WORKTYPE == 'public') {
-        RAVANA.addCommand({pattern: 'gm', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
+        RAVANA.addCommand({pattern: 'gmt', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
         
             var r_text = new Array ();
         
@@ -75,7 +75,7 @@ RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,},
             }));
         
         
-        RAVANA.addCommand({pattern: 'gn', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
+        RAVANA.addCommand({pattern: 'gnt', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
         
                 var r_text = new Array ();
             
@@ -93,7 +93,7 @@ RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,},
                     message.jid,(r_text[i]), MessageType.text);
             
                 }));    
-                RAVANA.addCommand({pattern: 'gm', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
+                RAVANA.addCommand({pattern: 'gmt', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
         
                     var r_text = new Array ();
                 
@@ -114,7 +114,7 @@ RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,},
                     }));
                 
                 
-                RAVANA.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
+                RAVANA.addCommand({pattern: 'gnt', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
                 
                         var r_text = new Array ();
                     
