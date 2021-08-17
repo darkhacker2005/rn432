@@ -28,6 +28,6 @@ Asena.addCommand({ pattern: 'random ?(.*)', fromMe: false, desc: 'word image' },
 
     var ttinullimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: Config.CAPTION_KEY})
+    await message.client.sendMessage(message.jid,Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA '})
 
 }));
