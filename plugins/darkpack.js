@@ -135,40 +135,40 @@ RAVANA.addCommand({pattern: 'darkpack$', fromMe: wk, desc: desc_msg}, (async (me
         command_cmd = '💠 Command : '
         desc_cmd = '🇱🇰 Description : '
     }
-    const msg = command_cmd + '```.ddevil``` \n' + t1 + '_\n' + usage_cmd + '*.devil Ravana*\n\n' +
-        command_cmd + '```.dbear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '*.bear Ravana*\n\n' +
-        command_cmd + '```.dthunder``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '*.thunder Ra;One*\n\n' +
-        command_cmd + '```.d1glitch```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '*.123glitch Ravana*\n\n' +
-        command_cmd + '```.dberry``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '*.berry Ravana*\n\n' +
-        command_cmd + '```.dperidot``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '*.light Ravana*\n\n' +
-        command_cmd + '```.djoker``` \n' + desc_cmd + t27 + '_\n' + usage_cmd + '*.joker Ravana*\n\n' +
-        command_cmd + '```.dhoney``` \n' + desc_cmd + t5 + '_\n' + usage_cmd + '*.ninja Ravana*\n\n' +
-        command_cmd + '```.dglitter``` \n' + desc_cmd + t6 + '_\n' + usage_cmd + '*.glitter Ravana*\n\n' +
-        command_cmd + '```.dbokeh``` \n' + desc_cmd + t7 + '_\n' + usage_cmd + '*.bokeh Ra;One*\n\n' +
-        command_cmd + '```.dgreenhorror``` \n' + desc_cmd + t8 + '_\n' + usage_cmd + '*.greenhorror Ravana*\n\n' +
-        command_cmd + '```.d2marvel``` \n' + desc_cmd + t9 + '_\n' + usage_cmd + '*.2marvel Ravana*\n\n' +
-        command_cmd + '```.d3neon``` \n' + desc_cmd + t11 + '_\n' + usage_cmd + '*.3dneon Ra;One*\n\n' +
-        command_cmd + '```.dmetalgalaxy``` \n' + desc_cmd + t12 + '_\n' + usage_cmd + '*.metalgalaxy Ra;One*\n\n' +
-        command_cmd + '```.dmetalsilver``` \n' + desc_cmd + t13 + '_\n' + usage_cmd + '*.metalsilver Ra;One*\n\n' +
-        command_cmd + '```.d2graf``` \n' + desc_cmd + t15 + '_\n' + usage_cmd + '*.2graf Ravana*\n\n' +
-        command_cmd + '```.drosegold``` \n' + desc_cmd + t16 + '_\n' + usage_cmd + '*.rosegold sl;Ravana*\n\n' +       
-        command_cmd + '```.dtransformer``` \n' + desc_cmd + t17 + '_\n' + usage_cmd + '*.transformer Ravana*\n\n' +
-        command_cmd + '```.dice``` \n' + desc_cmd + t19 + '_\n' + usage_cmd + '*.ice Ravana*\n\n' +
-        command_cmd + '```.dluxurymetel``` \n' + desc_cmd + t20 + '_\n' + usage_cmd + '*.luxurymetel Ra;One*\n\n' +
-        command_cmd + '```.dmtg``` \n' + desc_cmd + t21 + '_\n' + usage_cmd + '*..mtg Ravana*\n\n' +
-        command_cmd + '```.dcamarica``` \n' + desc_cmd + t23 + '_\n' + usage_cmd + '*.camarica Ravana*\n\n' +
-        command_cmd + '```.dmagma``` \n' + desc_cmd + t25 + '_\n' + usage_cmd + '*.magma Ravana*\n\n' +
-        command_cmd + '```.dlayered``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '*.layered Ravana*\n\n' +
-        command_cmd + '```.dembossed``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '*.embossed Ravana*\n\n' +
-        command_cmd + '```.dpapercut``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '*.papercut Ravana*\n\n' +
-        command_cmd + '```.dwonderfullgraf``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.wonderfullgraf Ra;One*\n\n'+
-        command_cmd + '```.dcriholy``` \n' + desc_cmd + t30 + '_\n' + usage_cmd + '*.criholy Ravana*\n\n'+
-        command_cmd + '```.dreacloud``` \n' + desc_cmd + t31 + '_\n' + usage_cmd + '*.reacloud Ravanan\n'+
-        command_cmd + '```.dcatwindow``` \n' + desc_cmd + t32 + '_\n' + usage_cmd + '*.catwindow Ravana*\n\n'+
-        command_cmd + '```.dsci``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.scc Ravana*\n\n'+
-        command_cmd + '```.dhalloween``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.scc Ravana*\n\n'+
-        command_cmd + '```.dglue``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.scc Ravana*\n\n'+
-        command_cmd + '```.dcup``` \n' + desc_cmd + t33 + '_\n' + usage_cmd + '*.cup Ravana*\n\n'
+    const msg = command_cmd + '```.ddevil``` \n' + t1 + '_\n' + usage_cmd + '*.ddevil Hiruwa*\n\n' +
+        command_cmd + '```.dbear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '*.dbear Hiruwa*\n\n' +
+        command_cmd + '```.dthunder``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '*.dthunder Hiruwa*\n\n' +
+        command_cmd + '```.d1glitch```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '*.d123glitch Hiruwa*\n\n' +
+        command_cmd + '```.dberry``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '*.dberry Hiruwa*\n\n' +
+        command_cmd + '```.dperidot``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '*.dlight Hiruwa*\n\n' +
+        command_cmd + '```.djoker``` \n' + desc_cmd + t27 + '_\n' + usage_cmd + '*.djoker Hiruwa*\n\n' +
+        command_cmd + '```.dhoney``` \n' + desc_cmd + t5 + '_\n' + usage_cmd + '*.dninja Hiruwa*\n\n' +
+        command_cmd + '```.dglitter``` \n' + desc_cmd + t6 + '_\n' + usage_cmd + '*.dglitter Hiruwa*\n\n' +
+        command_cmd + '```.dbokeh``` \n' + desc_cmd + t7 + '_\n' + usage_cmd + '*.dbokeh Hiruwa*\n\n' +
+        command_cmd + '```.dgreenhorror``` \n' + desc_cmd + t8 + '_\n' + usage_cmd + '*.dgreenhorror Hiruwa*\n\n' +
+        command_cmd + '```.d2marvel``` \n' + desc_cmd + t9 + '_\n' + usage_cmd + '*.d2marvel Hiruwa*\n\n' +
+        command_cmd + '```.d3neon``` \n' + desc_cmd + t11 + '_\n' + usage_cmd + '*.d3dneon Hiruwa*\n\n' +
+        command_cmd + '```.dmetalgalaxy``` \n' + desc_cmd + t12 + '_\n' + usage_cmd + '*.dmetalgalaxy Hiruwa*\n\n' +
+        command_cmd + '```.dmetalsilver``` \n' + desc_cmd + t13 + '_\n' + usage_cmd + '*.dmetalsilver Hiruwa*\n\n' +
+        command_cmd + '```.d2graf``` \n' + desc_cmd + t15 + '_\n' + usage_cmd + '*.d2graf Hiruwa*\n\n' +
+        command_cmd + '```.drosegold``` \n' + desc_cmd + t16 + '_\n' + usage_cmd + '*.drosegold Hiruwa*\n\n' +       
+        command_cmd + '```.dtransformer``` \n' + desc_cmd + t17 + '_\n' + usage_cmd + '*.dtransformer Hiruwa*\n\n' +
+        command_cmd + '```.dice``` \n' + desc_cmd + t19 + '_\n' + usage_cmd + '*.dice Hiruwa*\n\n' +
+        command_cmd + '```.dluxurymetel``` \n' + desc_cmd + t20 + '_\n' + usage_cmd + '*.dluxurymetel Hiruwa*\n\n' +
+        command_cmd + '```.dmtg``` \n' + desc_cmd + t21 + '_\n' + usage_cmd + '*.dmtg Hiruwa*\n\n' +
+        command_cmd + '```.dcamarica``` \n' + desc_cmd + t23 + '_\n' + usage_cmd + '*.dcamarica Hiruwa*\n\n' +
+        command_cmd + '```.dmagma``` \n' + desc_cmd + t25 + '_\n' + usage_cmd + '*.dmagma Hiruwa*\n\n' +
+        command_cmd + '```.dlayered``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '*.dlayered Hiruwa*\n\n' +
+        command_cmd + '```.dembossed``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '*.dembossed Hiruwa*\n\n' +
+        command_cmd + '```.dpapercut``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '*.dpapercut Hiruwa*\n\n' +
+        command_cmd + '```.dwonderfullgraf``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.dwonderfullgraf Hiruwa*\n\n' +
+        command_cmd + '```.dcriholy``` \n' + desc_cmd + t30 + '_\n' + usage_cmd + '*.dcriholy Hiruwa*\n\n' +
+        command_cmd + '```.dreacloud``` \n' + desc_cmd + t31 + '_\n' + usage_cmd + '*.dreacloud Hiruwa*\n\n' +
+        command_cmd + '```.dcatwindow``` \n' + desc_cmd + t32 + '_\n' + usage_cmd + '*.dcatwindow Hiruwa*\n\n' +
+        command_cmd + '```.dsci``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.dscc Hiruwa*\n\n' +
+        command_cmd + '```.dhalloween``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.dscc Hiruwa*\n\n'+
+        command_cmd + '```.dglue``` \n' + desc_cmd + t34 + '_\n' + usage_cmd + '*.dscc Hiruwa*\n\n'+
+        command_cmd + '```.dcup``` \n' + desc_cmd + t33 + '_\n' + usage_cmd + '*.dcup Hiruwa*\n\n'
     await message.client.sendMessage(message.jid,msg, MessageType.text, { quoted: message.data })
 }));
 RAVANA.addCommand({pattern: 'ddevil ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
@@ -183,7 +183,7 @@ RAVANA.addCommand({pattern: 'ddevil ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/devil.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/devil.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/devil.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -202,7 +202,7 @@ RAVANA.addCommand({pattern: 'dbear ?(.*)', fromMe: wk, dontAddCommandList: true}
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/bear.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bear.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bear.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -230,7 +230,7 @@ RAVANA.addCommand({pattern: 'dthunder ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/thunder.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/thunder.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/thunder.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -249,7 +249,7 @@ RAVANA.addCommand({pattern: 'd1glitch ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/123g.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/123g.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/123g.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -268,7 +268,7 @@ RAVANA.addCommand({pattern: 'dberry ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/berry.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/berry.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/berry.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -287,7 +287,7 @@ RAVANA.addCommand({pattern: 'dperidot ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/li.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/peridot.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/peridot.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -306,7 +306,7 @@ RAVANA.addCommand({pattern: 'djoker ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/joker.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/joker.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/joker.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -334,7 +334,7 @@ RAVANA.addCommand({pattern: 'dhoney ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/honey.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/honey.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/honey.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -353,7 +353,7 @@ RAVANA.addCommand({pattern: 'dglitter ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/tt.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -372,7 +372,7 @@ RAVANA.addCommand({pattern: 'dbokeh ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/bkh.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bkh.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bkh.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -400,7 +400,7 @@ RAVANA.addCommand({pattern: 'dgreenhorror ?(.*)', fromMe: wk, dontAddCommandList
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/greenhorror.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/greenhorror.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/greenhorror.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -428,7 +428,7 @@ RAVANA.addCommand({pattern: 'd2marvel ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/mar2.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'Y})
               })
           } catch(err) { 
               console.log(err)
@@ -456,7 +456,7 @@ RAVANA.addCommand({pattern: 'dd3neon ?(.*)', fromMe: wk, dontAddCommandList: tru
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/3dneon.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/3dneon.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/3dneon.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -484,7 +484,7 @@ RAVANA.addCommand({pattern: 'dmetalgalaxy ?(.*)', fromMe: wk, dontAddCommandList
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/metalgalaxy.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/metalgalaxy.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/metalgalaxy.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -512,7 +512,7 @@ RAVANA.addCommand({pattern: 'dmetalsilver ?(.*)', fromMe: wk, dontAddCommandList
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/metalsilver.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/metalsilver.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/metalsilver.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -540,7 +540,7 @@ RAVANA.addCommand({pattern: 'd2graf ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/t2gra.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t2gra.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t2gra.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -568,7 +568,7 @@ RAVANA.addCommand({pattern: 'drosegold ?(.*)', fromMe: wk, dontAddCommandList: t
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/rosegold.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/rosegold.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/rosegold.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -596,7 +596,7 @@ RAVANA.addCommand({pattern: 'dtransformer ?(.*)', fromMe: wk, dontAddCommandList
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/transformer.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/transformer.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/transformer.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -615,7 +615,7 @@ RAVANA.addCommand({pattern: 'dice ?(.*)', fromMe: wk, dontAddCommandList: true},
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/ice.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ice.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ice.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -643,7 +643,7 @@ RAVANA.addCommand({pattern: 'dluxurymetel ?(.*)', fromMe: wk, dontAddCommandList
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/luxurymetel.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/luxurymetel.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/luxurymetel.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -662,7 +662,7 @@ RAVANA.addCommand({pattern: 'dmtg ?(.*)', fromMe: wk, dontAddCommandList: true},
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/mtg.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mtg.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mtg.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -690,7 +690,7 @@ RAVANA.addCommand({pattern: 'dcamarica ?(.*)', fromMe: wk, dontAddCommandList: t
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/capamarica.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/capamarica.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/capamarica.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -718,7 +718,7 @@ RAVANA.addCommand({pattern: 'dmagma ?(.*)', fromMe: wk, dontAddCommandList: true
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/magma.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/magma.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/magma.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -746,7 +746,7 @@ RAVANA.addCommand({pattern: 'dlayered ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/layered.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/layered.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/layered.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -774,7 +774,7 @@ RAVANA.addCommand({pattern: 'dembossed ?(.*)', fromMe: wk, dontAddCommandList: t
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/embossed.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/embossed.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/embossed.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -802,7 +802,7 @@ RAVANA.addCommand({pattern: 'dpapercut ?(.*)', fromMe: wk, dontAddCommandList: t
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/papercut.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/papercut.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/papercut.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -830,7 +830,7 @@ RAVANA.addCommand({pattern: 'dwonderfullgraf ?(.*)', fromMe: wk, dontAddCommandL
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/wonderfullgraf.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/wonderfullgraf.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/wonderfullgraf.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -858,7 +858,7 @@ RAVANA.addCommand({pattern: 'dcriholy ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/criholy.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/criholy.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/criholy.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -886,7 +886,7 @@ RAVANA.addCommand({pattern: 'dreacloud ?(.*)', fromMe: wk, dontAddCommandList: t
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/reacloud.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/reacloud.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/reacloud.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -914,7 +914,7 @@ RAVANA.addCommand({pattern: 'dcatwindow ?(.*)', fromMe: wk, dontAddCommandList: 
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/catwindow.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/catwindow.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/catwindow.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -942,7 +942,7 @@ RAVANA.addCommand({pattern: 'dscc ?(.*)', fromMe: wk, dontAddCommandList: true},
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/scc.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/scc.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/scc.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -970,7 +970,7 @@ RAVANA.addCommand({pattern: 'dhalloween ?(.*)', fromMe: wk, dontAddCommandList: 
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/halloween.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/halloween.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/halloween.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -998,7 +998,7 @@ RAVANA.addCommand({pattern: 'dglue ?(.*)', fromMe: wk, dontAddCommandList: true}
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/glue.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/glue.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/glue.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -1026,7 +1026,7 @@ RAVANA.addCommand({pattern: 'dsci ?(.*)', fromMe: wk, dontAddCommandList: true},
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/sci.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/sci.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/sci.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
@@ -1045,7 +1045,7 @@ RAVANA.addCommand({pattern: 'dcup ?(.*)', fromMe: wk, dontAddCommandList: true},
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/cup.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cup.jpg'), MessageType.image, { caption: Config.CAPTION_KEY})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cup.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
