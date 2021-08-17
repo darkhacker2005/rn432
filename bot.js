@@ -82,7 +82,7 @@ async function whatsAsena () {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.github.com/RAVANA-SL/bc6604e4cb698a8587bfa9740e4b630c/raw/').then(async (ann) => {
+        await axios.get('https://gist.github.com/darkhacker2005/6fe4beab431fc7643f73543753c99794/row/').then(async (ann) => {
             const { infotr, infoen, infoes, infopt, infoid, infoaz, infohi, infoml, inforu} = ann.data.announcements          
             if (infotr !== '' && config.LANG == 'TR') {
                 while (getGMTh == 19 && getGMTm == 1) { 
