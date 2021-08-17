@@ -99,19 +99,4 @@ else if (Config.WORKTYPE == 'public') {
             '```' + child + '```', MessageType.text
         );
     }));
-        
-    Asena.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
-
-        if (Config.ALIVEMSG ==  default ) {
-
-            
-
-            var image = await axios.get (`https://telegra.ph/file/b0f60558bf2d8d354455f.jpg`, {responseType: 'arraybuffer'})
-
-       
-
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```DARK KNIGHT BOT දැන් online ඔයාලට මගේ සේවාව ලබාගත හැක. 🇱🇰 ```\n\*Version:* ```v1.0 - stable```\n\n*Developer:* ```HIRUWA```\n\n*WhatsApp :* wa.me/94704029407*\n\n*```ස්තූතියි DARK KNIGHT BOT පාවිච්චි කිරීම පිළිබදව```"})
-     }
-
-    }));
 }
