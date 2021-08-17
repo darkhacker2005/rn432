@@ -9,7 +9,7 @@ const axios = require('axios');
 const Config = require('../config');
 const NEED ="*Need some Word😊*"
 const MEM = "Make memes your own\nඔබගේම මිම් සාදාගැනීමට "
- const code = "╔════════════════════╗\n║   💢 *DARK KNIGHT Memems* 💢\n║\n║\n╠═══ *🇱🇰commands🇱🇰*\n║\n╠══ *.what*\n╠══ *.sad*\n╠══ *.drink*\n╠══ *.hacker*\n╠══ *.angry*\n╠══ *.doge*\n╠══ *.cunning*\n╠══ *.pusa*\n║\n╚════════════════════╝"
+ const code = "╔════════════════════╗\n║   💢 *DARK KNIGHT Memems* 💢\n║\n║\n╠═══ *🇱🇰commands🇱🇰*\n║\n╠══ *.what*\n╠══ *.sad*\n╠══ *.drink*\n╠══ *.hacker*\n╠══ *.angry*\n╠══ *.dog*\n╠══ *.cunning*\n╠══ *.pusa*\n║\n╚════════════════════╝"
 
 if (Config.WORKTYPE == 'private') {
     
@@ -70,7 +70,7 @@ if (Config.WORKTYPE == 'private') {
 
     }));
   
-  RAVANA.addCommand({ pattern: 'doge ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+  RAVANA.addCommand({ pattern: 'dog ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
   if (match[1] === '') return await message.sendMessage(NEED);
 
@@ -162,7 +162,7 @@ else if (Config.WORKTYPE == 'public') {
 
     }));
   
-  RAVANA.addCommand({ pattern: 'doge ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+  RAVANA.addCommand({ pattern: 'dog ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 
   if (match[1] === '') return await message.sendMessage(NEED);
 
