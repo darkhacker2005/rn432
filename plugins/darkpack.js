@@ -435,7 +435,7 @@ RAVANA.addCommand({pattern: 'd2marvel ?(.*)', fromMe: wk, dontAddCommandList: tr
           } 
     });
 }));
-RAVANA.addCommand({pattern: 'dd3neon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+RAVANA.addCommand({pattern: 'd3neon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
     var topText, bottomText; 
     if (match[1].includes(';')) {
         var split = match[1].split(';');
