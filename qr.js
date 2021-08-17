@@ -12,8 +12,8 @@ async function whatsAsena () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('DARK')}${chalk.blue.bold('KNIGHT')}
-${chalk.white.italic('DARK KNIGHT String Kodu Alıcı')}
+        console.log(`${chalk.green.bold('SL')}${chalk.blue.bold('RAVANA')}
+${chalk.white.italic('RAVANA String Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
@@ -22,7 +22,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     conn.on('open', () => {
         var st = Session.createStringSession(conn.base64EncodedAuthInfo());
         console.log(
-            chalk.green.bold('DARK KNIGHT String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
+            chalk.green.bold('RAVANA String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
         );
         
         if (!fs.existsSync('config.env')) {
