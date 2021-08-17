@@ -428,7 +428,7 @@ RAVANA.addCommand({pattern: 'd2marvel ?(.*)', fromMe: wk, dontAddCommandList: tr
               };
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/mar2.jpg', async() => {                          
-                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'Y})
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: 'DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA'})
               })
           } catch(err) { 
               console.log(err)
