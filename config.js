@@ -19,8 +19,8 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './whatsasena.db' : proc
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    VERSION: 'v3.5 Global Stable',
-    CHANNEL: 'https://chat.whatsapp.com/B5r06KogQix9xhRDjY4NkP',
+    VERSION: 'V1.0 Global Stable',
+    CHANNEL: 'https://chat.whatsapp.com/KUSz1mWuSla2Li43UXbYiL',
     SESSION: process.env.RAVANA_SESSION === undefined ? '' : process.env.RAVANA_SESSION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://telegra.ph/file/b0f60558bf2d8d354455f.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'SI' : process.env.LANGUAGE.toUpperCase(),
@@ -28,7 +28,7 @@ module.exports = {
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ?  'https://telegra.ph/file/b0f60558bf2d8d354455f.jpg' : process.env.ALIVE_LOGO,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://telegra.ph/file/4ce438f1111969bdd9df1.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://telegra.ph/file/913e1025377cd11246775.gif' : process.env.GIF_BYE,
-    CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by RAVANA' : process.env.CAPTION_KEY,
+    CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by DARK KNIGHT 🇱🇰 ➠ BY HIRUWA 🇱🇰' : process.env.CAPTION_KEY,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
