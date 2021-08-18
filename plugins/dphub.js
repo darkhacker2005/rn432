@@ -38,7 +38,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var ttinullimage = await axios.get(`https://api.zeks.xyz/api/phlogo?apikey=mWEXrVIEfCOBzwKZEMfxb7MHjP9&text1=${encodeURIComponent(match[1])}&text2=HUB`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://zenzapi.xyz/api/textpro/pornhub?text=${encodeURIComponent(match[1])}&text2=HUB&apikey=034b3a7681`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*DARK KNIGHT BOT 🇱🇰 ➠ BY HIRUWA*' })
 
