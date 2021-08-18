@@ -10,7 +10,7 @@ const need = "කමාන්ඩ් එකට පස්සෙ වචනයක්
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({ pattern: 'dphun ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+    Asena.addCommand({ pattern: 'dphub ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(need);
 
