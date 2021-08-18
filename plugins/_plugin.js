@@ -28,8 +28,8 @@ const heroku = new Heroku({
 
 let baseURI = '/apps/' + Config.HEROKU.APP_NAME;
 
-RAVANA.addCommand({pattern: 'install ?(.*)', fromMe: true, desc: Lang.INSTALL_DESC, warn: Lang.WARN}, (async (message, match) => {
-    if (match[1] === '') return await message.sendMessage(Lang.NEED_URL + '.install https://gist.github.com/DARKCRIME1/98f158fd73a1805683c3b52a8330c94e')
+RAVANA.addCommand({pattern: 'plug ?(.*)', fromMe: true, desc: Lang.INSTALL_DESC, warn: Lang.WARN}, (async (message, match) => {
+    if (match[1] === '') return await message.sendMessage(Lang.NEED_URL + '.plug https://gist.github.com/DARKCRIME1/98f158fd73a1805683c3b52a8330c94e')
     try {
         var url = new URL(match[1]);
     } catch {
