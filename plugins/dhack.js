@@ -6,7 +6,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const need = "කමාන්ඩ් එකට පස්සේ වචනයක් ලබා දෙන්න\n 🇱🇰"
+const need = "කමාන්ඩ් එකට පස්සේ වචනයක් ලබා දෙන්න 🇱🇰"
 
 if (Config.WORKTYPE == 'private') {
 
